@@ -15,12 +15,27 @@ layout: default
       </div>
     </div>
     <div class="col-12 col-md-8 col-lg-7 mt-3 mt-md-0">
-      <h3 class="pb-3">Some Links</h3>
+      <h4 class="pb-2">Profiles</h4>
       <div class="card mt-3 mt-md-0">
         <ul class="list-group list-group-flush">
-          {{ content }}
+          {% include profiles.html %}
         </ul>
+      </div>
+      <h4 class="pb-2 pt-4">Messengers</h4>
+      <div class="card mt-3 mt-md-0">
+        <ul class="list-group list-group-flush">
+          {% include messengers.html %}
+        </ul>
+      </div>
+      <h4 class="pb-2 pt-4">Domain Names <a class="btn btn-link btn-sm" data-toggle="collapse" href="#domains" role="button" aria-expanded="false" aria-controls="collapseExample">Toggle</a></h4>
+      <div class="collapse" id="domains">
+        <div class="card mt-3 mt-md-0">
+          <ul class="list-group list-group-flush">
+            {% include domains.html %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
+  {{ content }}
 </div>

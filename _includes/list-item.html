@@ -1,5 +1,7 @@
 {% if include.type == "social" %}
-<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-user{% endif %} mr-2"></i> {{ include.service }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a></li>
+<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-user{% endif %} mr-2"></i> {{ include.title }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a></li>
+{%- elsif include.type == "messenger" -%}
+<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-comments-alt{% endif %} mr-2"></i> {% if include.text %}{{ include.text }}{% else %}{{ include.title }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a>{% endif %}</li>
 {%- elsif include.type == "domain" -%}
-<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-globe-americas{% endif %} mr-2"></i> {{ include.service }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a></li>
+<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-globe-americas{% endif %} mr-2"></i><a href="{{ include.url }}">{{ include.url | remove: "https://" | remove: "http://" | remove: "www." | remove: "/" }}</a></li>
 {%- endif -%}
