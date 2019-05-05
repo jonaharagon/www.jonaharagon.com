@@ -1,0 +1,5 @@
+{% if include.type == "social" %}
+<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-user{% endif %} mr-2"></i> {{ include.service }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a></li>
+{%- elsif include.type == "domain" -%}
+<li class="list-group-item"><i class="{% if include.icon %}{{ include.icon }}{% else %}fas fa-globe-americas{% endif %} mr-2"></i> {{ include.service }}: <a href="{{ include.url }}" rel="me">{{ include.username }}</a></li>
+{%- endif -%}
