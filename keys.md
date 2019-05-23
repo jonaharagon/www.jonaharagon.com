@@ -437,13 +437,15 @@ These are my Matrix keys:
 ```
 Device Name:	MacBook Pro
 Device ID:	EXJTBNXCZS
-Device key:	1Dib DsVg ySVi DhJT a8je jvnq npO7 GLtI C2XQ oTR3 cxg
+Device Key:	1Dib DsVg ySVi DhJT a8je jvnq npO7 GLtI C2XQ oTR3 cxg
 
 Device Name:	iPhone XS
 Device ID:	ODAVRGVMMF
-Device key:	FFPM pDrl /xmG MEEU l2oA KXAY L6r0 6nPz woZm k2xt 9VA
+Device Key:	FFPM pDrl /xmG MEEU l2oA KXAY L6r0 6nPz woZm k2xt 9VA
+
+Device Name: ThinkPad T440s
+Device ID: JIJCBZCHGU
+Device Key: zW9r wiBu pPRF sE7g 6teC nsfu EwYS 947G +Rm6 3M9Q i4w
 ```
 
 <a class="btn btn-primary" href="/assets/files/matrix-devices.txt.asc" role="button">Download GPG Signed List</a>
-
-## Signal
