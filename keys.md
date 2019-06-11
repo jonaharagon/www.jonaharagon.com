@@ -7,7 +7,7 @@ icon: "fas fa-key"
 
 This page contains (or will contain) all the public keys I use to sign/encrypt things online. If I'm missing something, let me know and I'll add it.
 
-If you wish to verify the keys on this page, you can browse the [Git commits on GitHub](https://github.com/JonahAragon/www.jonaharagon.com/commits/master), they're all signed as well.
+If you wish to verify the keys on this page, you can browse the [Git commits on GitHub](https://github.com/JonahAragon/www.jonaharagon.com/commits/master){:.itl}, they're all signed as well.
 
 ## GPG
 

@@ -5,12 +5,12 @@ title: Donate
 icon: "fas fa-donate"
 ---
 
-I believe in a web free of massive tracking networks and invasive corporations and governments. To that end, I've been working on developing free services and promoting privacy-centric software online through my work on projects such as [privacytools.io](https://www.privacytools.io/services/) and [opennic.org](https://www.opennic.org/).
+I believe in a web free of massive tracking networks and invasive corporations and governments. To that end, I've been working on developing free services and promoting privacy-centric software online through my work on projects such as [privacytools.io](https://www.privacytools.io/services/){:.itl} and [opennic.org](https://www.opennic.org/){:.itl}.
 
 If you like what I do, you can support me financially through donations. These donations will go towards covering server and domain costs for the services and websites I provide, as well as encourage me to continue my work in the privacy space and help promote the decentralization and personal control of data online.
 
-- **Ko-Fi**: [https://ko-fi.com/jonaharagon](https://ko-fi.com/jonaharagon)
-- **Liberapay**: [https://liberapay.com/jonah](https://liberapay.com/jonah)
+- **Ko-Fi**: [https://ko-fi.com/jonaharagon](https://ko-fi.com/jonaharagon){:.itl}
+- **Liberapay**: [https://liberapay.com/jonah](https://liberapay.com/jonah){:.itl}
 
 ## Cryptocurrencies
 
