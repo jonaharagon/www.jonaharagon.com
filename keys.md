@@ -11,6 +11,8 @@ If you wish to verify the keys on this page, you can browse the [Git commits on 
 
 ## GPG
 
+You can encrypt files or messages to me using this GPG public key. Please note I may not be able to reply in a timely fashion due to not always having access to my private key on all devices, and would prefer other communication methods such as Wire or Matrix for more urgent discussions when possible.
+
 Fingerprint: `9BD822880E2784EE5C929CD6DB49BB255B868219`
 
 <a class="btn btn-primary" href="/assets/files/gpg.asc" role="button">Download GPG Key</a>
@@ -23,7 +25,7 @@ Fingerprint: `9BD822880E2784EE5C929CD6DB49BB255B868219`
 
 ## Matrix
 
-These are my Matrix keys:
+I can be contacted on Riot/Matrix at `@jonaharagon:privacytools.io`, these are my Matrix keys:
 
 ```
 Device Name:	MacBook Pro
@@ -40,3 +42,17 @@ Device Key:	zW9r wiBu pPRF sE7g 6teC nsfu EwYS 947G +Rm6 3M9Q i4w
 ```
 
 <a class="btn btn-primary" href="/assets/files/matrix-devices.txt.asc" role="button">Download GPG Signed List</a>
+
+## Wire
+
+I can be contacted on Wire at `@jonaharagon`, these are my Wire keys:
+
+```
+Device Name:	MacBook Pro
+Device ID:	A9FAB7636A7238D4
+Fingerprint:	85ae126400c59b988bd4e8cfc93f357cf004bb79ddf5badff23b4f125cff6f08
+
+Device Name:	iPhone XS
+Device ID:	47E6FEBEA0DA28DB
+Fingerprint:	020935941141b30a4bf2aff9d2ff8ad2900ca0eedfb1a536aaa732e1334d0e9d
+```
