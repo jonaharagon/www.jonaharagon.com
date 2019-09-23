@@ -32,7 +32,7 @@ Device Name:	MacBook Pro (Safari)
 Device ID:	YJZHUVSIIU
 Device Key:	p5oI 1dif OqQD q34v cQJE tjaD rVKa csC7 JYiN Uip5 sAQ
 
-Device Name:	iPhone XS
+Device Name:	iPhone 11 Pro
 Device ID:	ODAVRGVMMF
 Device Key:	FFPM pDrl /xmG MEEU l2oA KXAY L6r0 6nPz woZm k2xt 9VA
 
@@ -66,9 +66,9 @@ Device Name:	MacBook Pro
 Device ID:	C82CAFF2A6ACB29F
 Fingerprint:	cdb96b020072364c32a7a2c012b1aafa0b5e1709a996dd6ae3b79457ab2b2af7
 
-Device Name:	iPhone XS
-Device ID:	47E6FEBEA0DA28DB
-Fingerprint:	020935941141b30a4bf2aff9d2ff8ad2900ca0eedfb1a536aaa732e1334d0e9d
+Device Name:	iPhone 11 Pro
+Device ID:	9D43E4A001E00A48
+Fingerprint:	b95d5e3775f296e071e14dc83bfc97972488d84daf0c26cab02bac78e490be3e
 
 Device Name:	Pixel 3
 Device ID:	FC1F0FE70D6DED48
