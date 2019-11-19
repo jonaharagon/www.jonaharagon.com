@@ -1,0 +1,36 @@
+---
+permalink: /keys/cert-policy-v1.txt
+---
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Certification policy
+====================
+
+I will sign someone's key at certification level 1 without having met him or
+her in person, if I am reasonably certain that the key holder's identity
+corresponds with the key. Usually, this involves:
+
+1) Working with the key holder on online projects for extended periods,
+   such as PrivacyTools.
+
+I never sign someone's key at certification level 2 or 3 without having met
+him or her in person. Usually, this involves:
+
+1) Meeting in real life, exchanging key fingerprints
+2) exchanging government-issued IDs, and checking the person's name
+   against the names on the key
+
+However, in case I already know the person with whom I'm exchanging
+keys, step 2 may be skipped.
+
+Certification level depends on how well I know the person. For example,
+I may sign an acquaintance's key at certification level 2, and close friends
+and family at certification level 3.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSOHgsg08qRrRE2QUFTrdjOo9AW9gUCXdNUaQAKCRBTrdjOo9AW
+9uC/AQDDK7pqTDwMENYvollyjRI8KaMk00CVym96kbEKc7Gi/gEA2Tz23l5d6EL5
+hMKalcl98yIc/eL3qNntUhR3vlYiWQA=
+=jNjB
+-----END PGP SIGNATURE-----
