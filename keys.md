@@ -23,6 +23,8 @@ Fingerprint: `8E1E0B20D3CA91AD1136414153ADD8CEA3D016F6`
 {% include gpg.asc %}
 </code></pre>
 
+My **previous** GPG key had the fingerprint `9BD822880E2784EE5C929CD6DB49BB255B868219` and has signed the new key for verification. It should otherwise no longer be trusted or used, but I have no reason to believe it has been compromised.
+
 ## Matrix
 
 I can be contacted on Riot/Matrix at `@jonah:aragon.sh`, these are my Matrix keys:
