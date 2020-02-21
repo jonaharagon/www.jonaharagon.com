@@ -13,26 +13,23 @@ If you wish to verify the keys on this page, you can browse the [Git commits on 
 
 You can encrypt files or messages to me using this GPG public key. Please note I may not be able to reply in a timely fashion due to not always having access to my private key on all devices, and would prefer other communication methods such as Matrix for more urgent discussions when possible.
 
-Fingerprint: `8E1E0B20D3CA91AD1136414153ADD8CEA3D016F6`
+Fingerprint: `6325 C337 0B70 1771 38AB  F308 6A95 7C9A 9A94 29F7`
 
 <a class="btn btn-primary" href="/assets/files/gpg.asc" role="button">Download GPG Key</a>
 <a class="btn btn-secondary" href="https://keybase.io/jonaharagon/pgp_keys.asc" role="button">Download from Keybase</a>
 
-
 <pre class="pre-scrollable"><code>
 {% include gpg.asc %}
 </code></pre>
-
-My **previous** GPG key had the fingerprint `9BD822880E2784EE5C929CD6DB49BB255B868219` and has signed the new key for verification. It should otherwise no longer be trusted or used, but I have no reason to believe it has been compromised.
 
 ## Matrix
 
 I can be contacted on Riot/Matrix at `@jonah:aragon.sh`, these are my Matrix keys:
 
 ```
-Device name:	MacBook Pro
-Device ID:	CWMFKWRUCD
-Device key:	SNFN nDux i0ev bqWI 9X2Q voov E9yE QmS+ 9i0L zzJB FUc
+Device name:	Vanadium
+Device ID:	ALBFHEKWKS
+Device key:	iA4v fWCt Tn9V riPD mvEx Dzhn GpP2 exBJ 6RUd jdi8 4ak
 
 Device name:	iMac
 Device ID:	XSGANETHNR
@@ -53,8 +50,4 @@ Device key:	Qg4e rdDW Xu85 HIPE EPZm G1zH jiEB 7Wg1 1GEw jtdD 9Q8
 Device name:	Pixel 3 (Riot X)
 Device ID:	SQKLUYWTUQ
 Device key:	aQNH VLyA WkSe mmgG 81jd j3Oc HHo9 36TE I1hs gSHJ Heg
-
-Device name:	MacBook Pro
-Device ID:	BRWOQIYBVL
-Device key:	Imbv x89K e6yR KWDf q5dG 6kLG e6O6 a5bL Tt85 jgxQ Ids
 ```
