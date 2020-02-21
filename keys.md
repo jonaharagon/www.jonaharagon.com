@@ -51,3 +51,11 @@ Device name:	Pixel 3 (Riot X)
 Device ID:	SQKLUYWTUQ
 Device key:	aQNH VLyA WkSe mmgG 81jd j3Oc HHo9 36TE I1hs gSHJ Heg
 ```
+
+## SSH
+
+My SSH public key is:
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOUzcWuJy4V6TWDcTZiYThTUYAb+LpD0TDWnQfsb0ace cardno:000611507158
+```
