@@ -9,17 +9,20 @@ I believe in a web free of massive tracking networks and invasive corporations a
 
 If you like what I do, you can support me financially through donations. These donations will go towards covering server and domain costs for the services and websites I provide, as well as encourage me to continue my work in the privacy space and help promote the decentralization and personal control of data online.
 
-- **Ko-Fi**: [https://ko-fi.com/jonaharagon](https://ko-fi.com/jonaharagon){:.itl}
-- **Liberapay**: [https://liberapay.com/jonah](https://liberapay.com/jonah){:.itl}
-
 ## Cryptocurrencies
 
-- **Bitcoin (BTC)**: `1Nxmbbo5KWRktenmvqwDFwrfnxoza8Uf19`
-- **Bitcoin Cash (BCH)**: `qpn55ugscy5tt79nm0zs8x9hpwvjx3pw7cyzvsyky0`
-- **Ethereum (ETH)**: `0x2c344Bc747091Fd7322049dfb1eC2b110666fd21`
-- **Ethereum Classic (ETC)**: `0xb3CA6C65c2275FB42bB3Dab8BF6e7fe3eb5E3Ed1`
-- **Litecoin (LTC)**: `MQaxJFiHeWaL9d1c1b7UiohKewCHR3JPqq`
-- **0x (ZRX)**: `0x16823b2e6Be7703598a90Af00a86f6BfC94AE437`
-- **Basic Attention Token (BTC)**: `0x2A291d753740D7D0266324b660B28053B1F0Bd5e`
-- **Zcash (ZEC)**: `t1NKWWEDwypfCR4mDTPdruCGhfRXT8QBxgH`
-- **Stellar (XLM)**: Wallet `GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37` **and** Memo `3424381563`
+- **Bitcoin (BTC)**: `bc1qqtathhjeu0578qfhwe2spnfmc0pjppd7rzcape`
+- **Ethereum (ETH)**: `0x0C2f710164656E590a0B9557f9B69C7E46Abd5d2`
+- **Ethereum/ERC20 Tokens (ZRX, BAT, REP, LINK, etc.)**: `0x0C2f710164656E590a0B9557f9B69C7E46Abd5d2`
+- **Ethereum Classic (ETC)**: `0x100d6E2B29352F79361Eb4B1ccD4bBaE3c0711E1`
+- **Zcash (ZEC)**: `t1fRfE41dYEc8vZdVaFkH3E6NMnQgHiL4TR`
+- **Tezos (XTZ)**: `tz1c4TbJ5p2GEUG8dqoK2jedMqe59BCpGnTs`
+- **Bitcoin Cash (BCH)**: `12LZhdwFKa9EAfCvF6YPpUZ2LuizqphH97`
+- **Litecoin (LTC)**: `MHwyW9MNkpohXUPzTi8R8pokKw4wdU8k9J`
+- 0x (ZRX): `0x16823b2e6Be7703598a90Af00a86f6BfC94AE437`
+- Stellar (XLM): Wallet `GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37` **and** Memo `3424381563`
+
+## Fiat
+
+- Ko-Fi: [https://ko-fi.com/jonaharagon](https://ko-fi.com/jonaharagon){:.itl}
+- Liberapay: [https://liberapay.com/jonah](https://liberapay.com/jonah){:.itl}
