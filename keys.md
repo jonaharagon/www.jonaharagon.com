@@ -17,6 +17,7 @@ Fingerprint: `6325 C337 0B70 1771 38AB  F308 6A95 7C9A 9A94 29F7`
 
 <a class="btn btn-primary" href="/assets/files/gpg.asc" role="button">Download GPG Key</a>
 <a class="btn btn-secondary" href="https://keybase.io/jonaharagon/pgp_keys.asc" role="button">Download from Keybase</a>
+<a class="btn btn-light" href="/keys/keysigning/" role="button">Sign This Key</a>
 
 <pre class="pre-scrollable"><code>
 {% include gpg.asc %}
