@@ -43,7 +43,7 @@ Keys 1-1 of 1 for "jonah@triplebit.net".  Enter number(s), N)ext, or Q)uit > 1
 Just enter the following command:
 
 ```
-$ gpg --sign-key
+$ gpg --sign-key 0x6A957C9A9A9429F7
 ```
 
 It will ask you if you want to sign the key with your own, enter `Y`. It may also ask you if you want to sign all the IDs on the key, which you can enter `Y` for as well. And that's it!
