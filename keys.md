@@ -23,6 +23,8 @@ Fingerprint: `6325 C337 0B70 1771 38AB  F308 6A95 7C9A 9A94 29F7`
 {% include gpg.asc %}
 </code></pre>
 
+If you don't use GPG, you can still encrypt your message to me by visiting [this page on Keybase](https://keybase.io/encrypt#jonaharagon){:.itl}, typing in your message, clicking encrypt, and sending the encrypted text to me in an email.
+
 ## Matrix
 
 I can be contacted on Riot/Matrix at `@jonah:aragon.sh`, these are my Matrix keys:
