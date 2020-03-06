@@ -30,29 +30,33 @@ If you don't use GPG, you can still encrypt your message to me by visiting [this
 I can be contacted on Riot/Matrix at `@jonah:aragon.sh`, these are my Matrix keys:
 
 ```
-Device name:	Vanadium
-Device ID:	ALBFHEKWKS
-Device key:	iA4v fWCt Tn9V riPD mvEx Dzhn GpP2 exBJ 6RUd jdi8 4ak
+Session name:	Vanadium
+Session ID:	ALBFHEKWKS
+Session key:	iA4v fWCt Tn9V riPD mvEx Dzhn GpP2 exBJ 6RUd jdi8 4ak
 
-Device name:	iMac
-Device ID:	XSGANETHNR
-Device key:	qMyj VX38 iLaf RGlS aMlb U5hX ZF4U ja+X xCKw gcCS Dms
+Session name:	iMac
+Session ID:	XSGANETHNR
+Session key:	qMyj VX38 iLaf RGlS aMlb U5hX ZF4U ja+X xCKw gcCS Dms
 ```
 
 I use another account, `@jonah:privacytools.io` with the following Matrix keys:
 
 ```
-Device name:	iPhone XS
-Device ID:	ODAVRGVMMF
-Device key:	FFPM pDrl /xmG MEEU l2oA KXAY L6r0 6nPz woZm k2xt 9VA
+Session name:  Zirconium
+Session ID: AOIUBZSVHX
+Session key:  YqgC whOQ Ehmv hT7n 0V1M eBW5 WZQf xJ8m UmAw d69d /rk
 
-Device name:	Pixel 3
-Device ID:	BZVQXDQTBJ
-Device key:	Qg4e rdDW Xu85 HIPE EPZm G1zH jiEB 7Wg1 1GEw jtdD 9Q8
+Session name:	iPhone XS
+Session ID:	ODAVRGVMMF
+Session key:	FFPM pDrl /xmG MEEU l2oA KXAY L6r0 6nPz woZm k2xt 9VA
 
-Device name:	Pixel 3 (Riot X)
-Device ID:	SQKLUYWTUQ
-Device key:	aQNH VLyA WkSe mmgG 81jd j3Oc HHo9 36TE I1hs gSHJ Heg
+Session name:	Pixel 3
+Session ID:	BZVQXDQTBJ
+Session key:	Qg4e rdDW Xu85 HIPE EPZm G1zH jiEB 7Wg1 1GEw jtdD 9Q8
+
+Session name:	Pixel 3 (Riot X)
+Session ID:	SQKLUYWTUQ
+Session key:	aQNH VLyA WkSe mmgG 81jd j3Oc HHo9 36TE I1hs gSHJ Heg
 ```
 
 ## SSH
