@@ -42,9 +42,9 @@ Session key:	qMyj VX38 iLaf RGlS aMlb U5hX ZF4U ja+X xCKw gcCS Dms
 I use another account, `@jonah:privacytools.io` with the following Matrix keys:
 
 ```
-Session name:  Zirconium
-Session ID: AOIUBZSVHX
-Session key:  YqgC whOQ Ehmv hT7n 0V1M eBW5 WZQf xJ8m UmAw d69d /rk
+Session name:	Zirconium
+Session ID:	AOIUBZSVHX
+Session key:	YqgC whOQ Ehmv hT7n 0V1M eBW5 WZQf xJ8m UmAw d69d /rk
 
 Session name:	iPhone XS
 Session ID:	ODAVRGVMMF
