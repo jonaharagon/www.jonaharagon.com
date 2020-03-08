@@ -43,8 +43,8 @@ I use another account, `@jonah:privacytools.io` with the following Matrix keys:
 
 ```
 Session name:	Zirconium
-Session ID:	AOIUBZSVHX
-Session key:	YqgC whOQ Ehmv hT7n 0V1M eBW5 WZQf xJ8m UmAw d69d /rk
+Session ID:	FNTHMIVEXG
+Session key:	csue p1mU Jg5w Mv9o oLRq 78/H R+5W WmOj y06C 7Hu0 yYU
 
 Session name:	iPhone XS
 Session ID:	ODAVRGVMMF
