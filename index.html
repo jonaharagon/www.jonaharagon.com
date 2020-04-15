@@ -5,18 +5,33 @@ group: "navigation"
 ---
 
 <div class="vertical-center">
-  <div class="h-card">
-    <img src="/assets/img/jonah.jpeg" class="u-photo profile" alt="Jonah Aragon's Profile Picture" />
-    <h1><span id="name"><link class="p-name u-url" href="https://jonaharagon.com">Jonah Aragon</link></span></h1>
+  <div itemscope itemtype="http://schema.org/Person" class="h-card vcard">
+    <img src="/assets/img/jonah.jpeg" itemprop="image" class="u-photo profile" alt="Jonah Aragon's Profile Picture" />
+    <h1><span id="name"><a itemprop="url" class="u-url" href="https://jonaharagon.com"><span itemprop="name" class="p-name fn">Jonah Aragon</span></a></span></h1>
     <ul>
-      <li><a id="email" class="u-email" href="mailto:">jonah@triplebit.net</a></li>
-      <li><a id="location" class="p-adr h-adr" href="https://en.wikipedia.org/wiki/Minnesota"><span class="p-region">Minnesota</span>, <span class="p-country-name">USA</span></a></li>
-      <li><a id="phone" class="tel" href="https://signal.org/">763-392-3051</a></li>
-      <li><a id="pgp" class="u-key" href="/keys/">6A95 7C9A 9A94 29F7</a></li>
+      <li><a id="email" itemprop="email" class="u-email email" href="mailto:jonah@triplebit.net">jonah@triplebit.net</a></li>
+      <li><a id="location" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="p-adr h-adr adr" href="https://en.wikipedia.org/wiki/Minnesota"><span class="p-region" itemprop="addressRegion">Minnesota</span>, <span itemprop="addressCountry" class="p-country-name">USA</span></a></li>
+      <li><a id="phone" href="https://signal.org/"><span itemprop="telephone" class="p-tel tel">763-392-3051</span></a></li>
+      <li><a id="pgp" class="u-key key" href="/keys/">6A95 7C9A 9A94 29F7</a></li>
     </ul>
+    <p itemprop="description">
+      I am an <span itemprop="jobTitle">IT professional</span>, <span itemprop="knowsAbout">privacy</span> advocate, <span itemprop="jobTitle">web designer</span>, and <span itemprop="jobTitle">server administrator</span>.<br />
+      I work on
+      <span class="p-org h-card" itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">
+        <a class="u-url" itemprop="url" href="https://www.privacytools.io">
+          <span class="p-name org" itemprop="name">PrivacyTools</span></a></span>,
+      <span class="p-org h-card" itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">
+        <a class="u-url" itemprop="url" href="https://opennic.org">
+          <span class="p-name org" itemprop="name">OpenNIC</span></a></span>, and
+      <span class="p-org h-card" itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">
+        <a class="u-url" itemprop="url" href="https://nabla.host">
+          <span class="p-name org" itemprop="name">NABLA HOST</span></a></span>.
+    </p>
+    <p>
+      <a itemprop="sameAs" rel=me href="https://twitter.com/JonahAragon">Twitter</a>
+      <a itemprop="sameAs" rel=me href="https://social.privacytools.io/@jonah">Mastodon</a>
+      <a itemprop="sameAs" rel=me href="https://keybase.io/JonahAragon">Keybase</a>
+      <a itemprop="sameAs" rel=me href="https://github.com/JonahAragon">GitHub</a>
+      <a href="/accounts/">More...</a>
   </div>
-  <p>
-    I am a privacy advocate, web designer, and server administrator.<br />
-    I work on <a href="https://www.privacytools.io">PrivacyTools</a>, <a href="https://opennic.org">OpenNIC</a>, and <a href="https://nabla.host">NABLA HOST</a>.
-  </p>
 </div>

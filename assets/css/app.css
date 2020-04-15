@@ -60,7 +60,7 @@ li * {
   padding: 0.3rem;
   display: inline-block;
 }
-li a {
+li a, #name a {
   text-decoration: none;
 }
 a span {
@@ -72,7 +72,7 @@ a span {
 a {
   color: inherit;
 }
-a:hover {
+a:hover:not(#name) {
   color: black;
   background-color: white;
   text-decoration: none;
