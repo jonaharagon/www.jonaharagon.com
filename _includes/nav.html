@@ -1,25 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar">
   <div class="container">
-    <a class="navbar-brand" href="/">Jonah Aragon</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-      <div class="mr-auto"></div>
-      <ul class="navbar-nav mt-2 mt-lg-0">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://blog.jonaharagon.com/">Blog</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/keys/">Keys</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/donate/">Donate</a>
-        </li>
-      </ul>
-    </div>
+    <ul class="navbar-nav">
+      <li><a class="navbar-brand{% if page.url == "/" %} hidden{% endif %}" href="/">Jonah Aragon</a></li>
+      <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+      <li><a href="/keys/" {% if page.url == "/keys/" %}class="active"{% endif %}>Keys</a></li>
+      <li><a href="/accounts/" {% if page.url == "/accounts/" %}class="active"{% endif %}>Accounts</a></li>
+      <li><a href="https://blog.jonaharagon.com">Blog</a></li>
+    </ul>
   </div>
 </nav>

@@ -1,0 +1,87 @@
+body {
+  font-family: monospace;
+  color: white;
+  background-color: black;
+}
+.container {
+  max-width: 1080px;
+  margin: auto;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.hidden {
+  display: none;
+}
+h1 {
+  font-size: 3em;
+  padding: 0.3rem;
+}
+h2 {
+  font-size: 2em;
+  padding: 0.3rem;
+}
+ul,li {
+  list-style-type: none;
+  list-style-position:inside;
+  margin:0;
+  padding:0;
+}
+ul.navbar-nav {
+  display: flex;
+}
+ul.navbar-nav li {
+  display: inline-block;
+}
+ul.navbar-nav li:first-child {
+  margin-right: auto;
+}
+ul.navbar-nav li:not(:last-of-type):not(:first-child) {
+  margin-right: 1em;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.active {
+  background-color: white;
+  color: black;
+}
+img.profile {
+  width: 10em;
+  border-radius: 50%;
+}
+li * {
+  font-size: 1rem;
+  color: white;
+  padding: 0.3rem;
+  display: inline-block;
+}
+li a {
+  text-decoration: none;
+}
+a span {
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  background-color: inherit;
+}
+a {
+  color: inherit;
+}
+a:hover {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+p {
+  font-size: 1rem;
+  padding: 0.3rem;
+}
+.pre-scrollable {
+  max-height: 250px;
+  overflow: scroll;
+}
