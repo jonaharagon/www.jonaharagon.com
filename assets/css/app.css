@@ -3,6 +3,10 @@ body {
   color: white;
   background-color: black;
 }
+pre,code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
 .container {
   max-width: 1080px;
   margin: auto;
