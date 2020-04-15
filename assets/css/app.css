@@ -60,7 +60,7 @@ li * {
   padding: 0.3rem;
   display: inline-block;
 }
-li a, #name a {
+li a, a.name {
   text-decoration: none;
 }
 a span {
