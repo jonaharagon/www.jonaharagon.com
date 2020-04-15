@@ -3,6 +3,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="Jonah Aragon">
-  {% if page.title %}<title>{{ page.title }} | Jonah Aragon</title>{% else %}<title>Jonah Aragon</title>{% endif %}
+  {% unless page.url == "/" %}<title>{{ page.title }} | Jonah Aragon</title>{% else %}<title>Jonah Aragon</title>{% endunless %}
   <link rel="stylesheet" href="/assets/css/app.css">
 </head>
