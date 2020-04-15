@@ -5,4 +5,5 @@
   <meta name="author" content="Jonah Aragon">
   {% unless page.url == "/" %}<title>{{ page.title }} | Jonah Aragon</title>{% else %}<title>Jonah Aragon</title>{% endunless %}
   <link rel="stylesheet" href="/assets/css/app.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 </head>
