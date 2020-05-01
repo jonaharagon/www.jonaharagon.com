@@ -1,0 +1,29 @@
+body {
+  color: white;
+  background-color: black;
+}
+.active {
+  background-color: white;
+  color: black;
+}
+a:hover:not(#name) {
+  color: black;
+  background-color: white;
+}
+li * {
+  color: white;
+}
+code.highlighter-rouge {
+  background: #090909;
+  border: 1px solid #181818;
+}
+pre.highlight {
+  background: #090909;
+  border: 1px solid #181818;
+}
+table, th, td {
+  border: 1px solid white;
+}
+.notice {
+  border: 1px solid white;
+}

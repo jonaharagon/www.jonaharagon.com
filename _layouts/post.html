@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% unless page.cover %}
+<div class="container blog-content">
+<div class="reading-width">
+  <h1 class="post-title post-title-nocover">{{ page.title }}</h1>
+  <p class="post-info"><strong>Jonah Aragon | {{ page.date | date: "%b %-d, %Y" }}</strong></p>
+</div>
+{% else %}
+<div class="post-cover" style="background-image: url({{ page.cover }})">
+  <div class="inner">
+  <div class="post-cover-text">
+    <h1 class="post-title">{{ page.title }}</h1><br /><br />
+    <p class="post-info">Jonah Aragon | {{ page.date | date: "%b %-d, %Y" }}</p>
+  </div>
+  </div>
+</div>
+<div class="container blog-content">
+{% endunless %}
+  <div class="reading-width article">
+  {% capture year %}{{page.date | date: "%Y"}}{% endcapture %}
+  {% assign year = year | plus: 0 %}
+  {% if year <= 2018 %}
+      <p class="notice"><strong>Note:</strong> This post is over a year old and may contain outdated information.</p>
+  {% endif %}
+  {{ content }}
+  </div>
+</div>

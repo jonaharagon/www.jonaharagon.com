@@ -1,11 +1,11 @@
 <nav class="navbar">
   <div class="container">
-    <ul class="navbar-nav">
-      <li><a class="navbar-brand{% if page.url == "/" %} hidden{% endif %}" href="/">Jonah Aragon</a></li>
-      <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-      <li><a href="/keys/" {% if page.url == "/keys/" %}class="active"{% endif %}>Keys</a></li>
-      <li><a href="/accounts/" {% if page.url == "/accounts/" %}class="active"{% endif %}>Accounts</a></li>
-      <li><a href="https://blog.jonaharagon.com">Blog</a></li>
+    <ul class="navbar-nav no-list-decoration">
+      <li><a class="text-decoration-none navbar-brand{% if page.url == "/" %} hidden{% endif %}" href="/">Jonah Aragon</a></li>
+      <li><a class="text-decoration-none{% if page.url == '/' %} active{% endif %}" href="/">Home</a></li>
+      <li><a class="text-decoration-none{% if page.url == '/keys/' %} active{% endif %}" href="/keys/">Keys</a></li>
+      <li><a class="text-decoration-none{% if page.url == '/accounts/' %} active{% endif %}" href="/accounts/">Accounts</a></li>
+      <li><a class="text-decoration-none{% if page.url == '/blog/' %} active{% endif %}" href="/blog/">Blog</a></li>
     </ul>
   </div>
 </nav>
