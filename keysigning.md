@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /keys/keysigning/
+permalink: /keysigning/
 title: Keysigning Tutorial
 icon: "fas fa-key"
 ---

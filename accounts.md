@@ -1,42 +1,60 @@
 ---
 layout: page
 permalink: /accounts/
-title: Accounts
+title: Accounts &amp; Contact
 ---
 
-# Accounts
+# Accounts & Contact
 
-## Contact
+## Keys
 
-*In order of preference...*
+OpenPGP `0x6325c3370b70177138abf3086a957c9a9a9429f7` [[Download](/assets/files/gpg.asc)] [[Sign](/keysigning/)] [[Social Proofs](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
-Matrix [@jonah:privacytools.io](https://matrix.to/#/@jonah:privacytools.io) [@jonah:aragon.sh](https://matrix.to/#/@jonah:aragon.sh) [[Keys](/keys/)]
+SSH `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOUzcWuJy4V6TWDcTZiYThTUYAb+LpD0TDWnQfsb0ace cardno:000611507158`
 
-Keybase [@JonahAragon](https://keybase.io/JonahAragon)
+## Chat
+
+Matrix [@jonah:privacytools.io](https://matrix.to/#/@jonah:privacytools.io)
 
 Signal [763-392-3051](https://signal.org/)
 
-Email [jonah@triplebit.net](mailto:) [jonah@privacytools.io](mailto:)
+## Email
+
+Primary [jonah@triplebit.net](mailto:)
+
+PrivacyTools [jonah@privacytools.io](mailto:)
+
+Business [jonah@aragon.ventures](mailto:)
 
 ## Other
 
+Mastodon [@jonah@social.privacytools.io](https://social.privacytools.io/@jonah) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
+Reddit [u/JonahAragon](https://www.reddit.com/user/JonahAragon) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
+GitHub [@JonahAragon](https://github.com/JonahAragon) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
 Twitter [@JonahAragon](https://twitter.com/JonahAragon)
-
-Mastodon [@jonah@social.privacytools.io](https://social.privacytools.io/@jonah)
-
-Reddit [u/JonahAragon](https://www.reddit.com/user/JonahAragon)
-
-GitHub [@JonahAragon](https://github.com/JonahAragon)
 
 LinkedIn [Jonah Aragon](https://www.linkedin.com/in/jonaharagon/)
 
-## Cryptocurrencies
+## Cryptocurrency
 
-Bitcoin (BTC) bc1qqtathhjeu0578qfhwe2spnfmc0pjppd7rzcape
+Bitcoin (BTC) `bc1qqtathhjeu0578qfhwe2spnfmc0pjppd7rzcape`
 
-Ethereum (ETH) 0x0C2f710164656E590a0B9557f9B69C7E46Abd5d2
+Ethereum (ETH) `0x0C2f710164656E590a0B9557f9B69C7E46Abd5d2`
 
-Zcash (ZEC) t1fRfE41dYEc8vZdVaFkH3E6NMnQgHiL4TR
+Zcash (ZEC) `t1fRfE41dYEc8vZdVaFkH3E6NMnQgHiL4TR`
+
+## Domains
+
+[jonaharagon.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
+[triplebit.net](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
+[aragon.ventures](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+
+[nablahost.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
 ## Projects
 

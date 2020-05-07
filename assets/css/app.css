@@ -7,9 +7,17 @@ body {
   background-color: black;
   color: white;
 }
-a:hover:not(#name) {
+a:hover:not(#name):not(.proof) {
   color: white;
   background-color: black;
+  text-decoration: none;
+}
+.proof {
+  color: green;
+}
+.proof:hover{
+  color: white;
+  background-color: green;
   text-decoration: none;
 }
 li * {
@@ -18,7 +26,6 @@ li * {
   padding: 0.3rem;
   display: inline-block;
 }
-
 .blog-content {
   line-height: 1.5;
 }

@@ -6,7 +6,7 @@ body {
   background-color: white;
   color: black;
 }
-a:hover:not(#name) {
+a:hover:not(#name):not(.proof) {
   color: black;
   background-color: white;
 }
