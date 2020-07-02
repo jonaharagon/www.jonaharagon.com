@@ -20,11 +20,11 @@ Signal [763-392-3051](https://signal.org/)
 
 ## Email
 
-Primary [jonah@triplebit.net](mailto:)
+Primary [jonah@triplebit.net](mailto:jonah@triplebit.net)
 
-PrivacyTools [jonah@privacytools.io](mailto:)
+PrivacyTools [jonah@privacytools.io](mailto:jonah@privacytools.io)
 
-Business [jonah@aragon.ventures](mailto:)
+Business [jonah@aragon.ventures](mailto:jonah@aragon.ventures)
 
 ## Other
 
@@ -50,11 +50,11 @@ Zcash (ZEC) `t1fRfE41dYEc8vZdVaFkH3E6NMnQgHiL4TR`
 
 [jonaharagon.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
-[triplebit.net](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[triplebit.net](https://triplebit.net) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
-[aragon.ventures](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[aragon.ventures](https://aragon.ventures) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
-[nablahost.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[nablahost.com](https://nablahost.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
 
 ## Projects
 
