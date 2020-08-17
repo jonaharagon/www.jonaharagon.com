@@ -16,8 +16,6 @@ SSH `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOUzcWuJy4V6TWDcTZiYThTUYAb+LpD0TDWnQfs
 
 Matrix [@jonah:privacytools.io](https://matrix.to/#/@jonah:privacytools.io)
 
-Signal [763-392-3051](https://signal.org/)
-
 ## Email
 
 Primary [jonah@triplebit.net](mailto:)
