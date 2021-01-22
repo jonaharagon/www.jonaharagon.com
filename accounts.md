@@ -14,23 +14,23 @@ SSH `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOUzcWuJy4V6TWDcTZiYThTUYAb+LpD0TDWnQfs
 
 ## Chat
 
-Matrix [@jonah:privacytools.io](https://matrix.to/#/@jonah:privacytools.io)
+Matrix [@jonah:aragon.sh](https://matrix.to/#/@jonah:aragon.sh)
+
+Discord @Jonah#1111
 
 ## Email
 
 Primary [jonah@triplebit.net](mailto:)
 
-PrivacyTools [jonah@privacytools.io](mailto:)
-
 Business [jonah@aragon.ventures](mailto:)
 
 ## Other
 
-Mastodon [@jonah@social.privacytools.io](https://social.privacytools.io/@jonah) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+Mastodon [@jonah@aragon.sh](https://mastodon.aragon.sh/@jonah)
 
-Reddit [u/JonahAragon](https://www.reddit.com/user/JonahAragon) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+Reddit [u/JonahAragon](https://www.reddit.com/user/JonahAragon)
 
-GitHub [@JonahAragon](https://github.com/JonahAragon) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+GitHub [@JonahAragon](https://github.com/JonahAragon)
 
 Twitter [@JonahAragon](https://twitter.com/JonahAragon)
 
@@ -46,18 +46,20 @@ Zcash (ZEC) `t1fRfE41dYEc8vZdVaFkH3E6NMnQgHiL4TR`
 
 ## Domains
 
-[jonaharagon.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[jonaharagon.com](https://jonaharagon.com)
 
-[triplebit.net](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[triplebit.net](https://triplebit.net)
 
-[aragon.ventures](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[aragon.ventures](https://aragon.ventures)
 
-[nablahost.com](https://jonaharagon.com) [[Signed](https://metacode.biz/openpgp/key#0x6A957C9A9A9429F7){: target="_blank" .proof}]
+[nablahost.net](https://nablahost.net)
 
 ## Projects
 
-PrivacyTools [WWW](https://www.privacytools.io) [Services](https://www.privacytools.io/services/) [Source](https://github.com/privacytoolsIO/) [Twitter](https://twitter.com/privacytoolsIO) [Reddit](https://www.reddit.com/r/privacytoolsIO/)
+Techlore Community [WWW](https://techlore.tech) [Discord](https://discord.gg/DdhZQExvVK) [Matrix](https://matrix.to/#/+techlore-official:matrix.org)
+
+PrivacyTools (Formerly) [Services](https://www.privacytools.io/services/) [Source](https://github.com/privacytoolsIO/)
 
 OpenNIC [WWW](https://www.opennic.org/) [ns9](https://servers.opennic.org/edit.php?srv=ns9.opennic.glue) [ns11](https://servers.opennic.org/edit.php?srv=ns11.opennic.glue) [ModernTLD](http://github.com/moderntld/) [Source](https://github.com/opennic/)
 
-NABLA HOST [Web Hosting](https://nablahost.com)
+NABLA HOST [Web Hosting](https://nablahost.net)
