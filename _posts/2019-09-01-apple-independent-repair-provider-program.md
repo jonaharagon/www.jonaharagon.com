@@ -2,6 +2,7 @@
 layout: post
 title: "Thoughts on Apple's Independent Repair Provider Program"
 cover: "/assets/img/2019-09-01-apple-independent-repair-provider-program/apple-irp-cover.jpg"
+canonical: "https://jonaharagon.me/thoughts-on-apples-independent-repair-provider-program-9b2ecfd75e24"
 ---
 
 I can honestly say I didn't see this coming. On August 29th, 2019, [Apple announced](https://support.apple.com/irp-program) they would begin not only selling original OEM parts to independent repair businesses, but also provide them with the tools, guides, training, and diagnostics required to complete repairs on out of warranty iPhones. This is great news.

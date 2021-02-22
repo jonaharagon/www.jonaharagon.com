@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Securing Services with Tor and alt-svc"
+canonical: "https://write.privacytools.io/jonah/securing-services-with-tor-and-alt-svc"
 ---
 
 Some people called for me to write a more technically detailed/in-depth guide to setting up Tor with `alt-svc` after [we set it up on privacytools.io](https://write.privacytools.io/jonah/tor-on-privacytools-io), so while I do it all over again on our Mastodon server, I figured I'd write this post! Plus, it'll make it easier for me if I need to do this again in the future :)

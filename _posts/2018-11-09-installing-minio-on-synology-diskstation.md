@@ -2,6 +2,7 @@
 layout: post
 title: "Installing Minio on Synology DiskStation"
 cover: "/assets/img/2018-11-09-installing-minio-on-synology-diskstation/cover.jpg"
+canonical: "https://jonaharagon.me/installing-minio-on-synology-diskstation-4823caf600c3"
 ---
 
 It seems object storage is an integral part of any cloud-based web technology these days, but sometimes offloading that aspect of your work to a provider like Amazon S3 or Azure Blob Storage just isn't feasible or possible. Enter [Minio](https://www.minio.io/), a self-hosted cloud storage application with a simple interface, compatibility with multiple storage backends, and S3 API compatibility.
