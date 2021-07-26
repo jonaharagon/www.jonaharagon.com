@@ -1,0 +1,8 @@
+domain: $DOMAIN
+dir: $DIR
+command: STATIC_SITE_GENERATOR_COMMAND
+pinata:
+  jwtToken: $PINATA_TOKEN
+cloudflare:
+  apiKey: $CLOUDFLARE_APIKEY
+  zoneId: $CLOUDFLARE_ZONEID

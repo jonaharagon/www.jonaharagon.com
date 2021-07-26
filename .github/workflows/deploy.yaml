@@ -1,0 +1,45 @@
+name: Production Deploy
+concurrency:
+  group: Production
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Jekyll Build
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    - name: Cache Jekyll build
+      uses: actions/cache@v2
+      with:
+        path: |
+          .jekyll-cache
+          .sass-cache
+        key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.??m[ld]') }}
+    - name: Install dependencies
+      run: bundle install
+    - name: Build website
+      run: bundle exec jekyll build
+    - name: Make all links relative
+      run: |
+        npm install -g all-relative
+        cd _site && all-relative && cd ..
+    - id: publish
+      uses: sha224/ipfs-publisher@8c43d04dc6c95f39c8ec69d0cc8dec9dd92263f2
+      env:
+        DOMAIN: jonaharagon.com
+        DIR: _site
+        PINATA_TOKEN: ${{ secrets.PINATA_TOKEN }}
+        CLOUDFLARE_APIKEY: ${{ secrets.CLOUDFLARE_APIKEY }}
+        CLOUDFLARE_ZONEID: ${{ secrets.CLOUDFLARE_ZONEID }}
