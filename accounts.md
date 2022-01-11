@@ -22,7 +22,7 @@ Business [jonah@aragon.ventures](mailto:)
 
 ## Other
 
-Mastodon [@jonah@aragon.sh](https://mastodon.aragon.sh/@jonah)
+Mastodon [@jonaharagon@mastodon.technology](https://mastodon.technology/@jonaharagon)
 
 Reddit [u/JonahAragon](https://www.reddit.com/user/JonahAragon)
 
